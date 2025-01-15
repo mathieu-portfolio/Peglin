@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dungeon_01
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c3d13db1686ae184bb3e117774d7a7b5, type: 3}
+    - {fileID: 2800000, guid: 4fa68783dcf9c004fbac141fb8317108, type: 3}
+    - {fileID: 2800000, guid: 766bed023f1c098449a7bc31783da47a, type: 3}
+    - {fileID: 2800000, guid: 4fe2f96b0cffc6e4a80b03106d25b6af, type: 3}
+    - {fileID: 2800000, guid: a5075f57627add1489ac755bb06c0fa0, type: 3}
+    - {fileID: 2800000, guid: 6701549dd646780439d3bcbc63ebcd52, type: 3}
+    - {fileID: 2800000, guid: 1b76bf1a8c14d18499226a93f23c4c65, type: 3}
+    - {fileID: 2800000, guid: 9121c661e2fd51446b4f3b274f4f19e4, type: 3}
+    - {fileID: 2800000, guid: dd6409b27dfe0cd4db4b4fcdb690b8a0, type: 3}
+    - {fileID: 2800000, guid: 6a53f66dd537a93419ef89a621199680, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9121c661e2fd51446b4f3b274f4f19e4, type: 3}
+  - {fileID: 21300000, guid: c3d13db1686ae184bb3e117774d7a7b5, type: 3}
+  - {fileID: 21300000, guid: 766bed023f1c098449a7bc31783da47a, type: 3}
+  - {fileID: 21300000, guid: dd6409b27dfe0cd4db4b4fcdb690b8a0, type: 3}
+  - {fileID: 21300000, guid: 4fa68783dcf9c004fbac141fb8317108, type: 3}
+  - {fileID: 21300000, guid: a5075f57627add1489ac755bb06c0fa0, type: 3}
+  - {fileID: 21300000, guid: 1b76bf1a8c14d18499226a93f23c4c65, type: 3}
+  - {fileID: 21300000, guid: 4fe2f96b0cffc6e4a80b03106d25b6af, type: 3}
+  - {fileID: 21300000, guid: 6a53f66dd537a93419ef89a621199680, type: 3}
+  - {fileID: 21300000, guid: 6701549dd646780439d3bcbc63ebcd52, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Wood-Down
+  - Marbles-Background_01
+  - Background-Motive_02
+  - Wood-Middle
+  - Background-Motive_01
+  - Grass_01
+  - Wall_01
+  - Background-Motive_03
+  - Wood-Up
+  - Ground_01
+  m_RenderDataMap: {}
+  m_Tag: Dungeon_01
+  m_IsVariant: 0
