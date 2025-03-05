@@ -1,2 +1,2 @@
 # Peglin
- Petite ébauche de Peglin en reverse engineering (artisanal)
+Ebauche de Peglin en reverse engineering
