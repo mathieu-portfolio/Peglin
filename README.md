@@ -31,5 +31,4 @@ git clone https://github.com/mathieu-portfolio/Peglin.git
 - Open the project in **Unity Editor**.
 
 ### **Play the Game**
-- Click **Play** in Unity to start testing the alchemy system.
-- You can play the release version in `bin/Peglin.exe`
+You can play the release version in `bin/Peglin.exe`
